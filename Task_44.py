@@ -4,9 +4,7 @@
 get_dummies? 
 """
 
-
 import pandas as pd 
-import numpy as np
 import random
 
 # Перевод данных в one hot вид без pandas 
